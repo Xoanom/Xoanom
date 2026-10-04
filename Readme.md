@@ -1,8 +1,4 @@
-<!--
-  README de perfil de GitHub.
-  - La animación de tipeo y el placeholder de imagen/enlace son PROVISIONALES:
-    busca los comentarios "CAMBIAR AQUÍ" para saber qué reemplazar más adelante.
--->
+
 
 <table>
   <tr>
