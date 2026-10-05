@@ -42,8 +42,8 @@
   </tr>
 </table>
 
-<div style="width: 100%; text-align: center">
-  <a href="https://git.io/streak-stats"
+<div style="width: 60%; margin-left:auto; margin-right:auto;">
+  <a href="https://git.io/streak-stats" 
     ><img
       src="https://streak-stats.demolab.com?user=Xoanom&theme=microsoft-dark&hide_border=true&border_radius=6.8&date_format=j%20M%5B%20Y%5D&mode=weekly"
       alt="GitHub Streak"
