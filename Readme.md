@@ -51,5 +51,12 @@
   /></a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoanom&layout=donut" alt="">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Xoanom&repo=CalculadoraJava&description_lines_count=3" alt="">
+
+
+
+<table border="1">
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoanom&layout=donut"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xoanom&repo=CalculadoraJava&description_lines_count=3"></td>
+    </tr>
+</table>
